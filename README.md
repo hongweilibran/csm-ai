@@ -1,5 +1,5 @@
 <img src="csm-ai.png" width="250">
-This repository serves as the official source for the CSM-AI dataset, a sustained effort to make a diverse collection of MRI scans publicly available for research purposes. 
+This repository serves as the official source for the CSM-AI dataset, a sustained effort to make a diverse collection of MRI scans of CSM patients publicly available for research purposes. 
 
 
 ### Download 
